@@ -64,3 +64,8 @@
   align-items: flex-start;
   margin: 20px;
 }
+.mention-inputs {
+  list-style-type: none;
+  font-weight: bold;
+  margin: 20px;
+}

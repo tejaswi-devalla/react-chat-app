@@ -133,7 +133,7 @@ class ChatHome extends Component {
               maxLength={50}
               borderColor="black"
               onEnter={this.sendMessage}
-            ></InputEmoji>
+            />
             <button
               type="button"
               className="send-btn"
